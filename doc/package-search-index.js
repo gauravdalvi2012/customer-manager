@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"trial.gaurav.collection"},{"l":"trial.gaurav.console"},{"l":"trial.gaurav.customer"},{"l":"trial.gaurav.menu"}];updateSearchResults();
